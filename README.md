@@ -1,10 +1,10 @@
-## AI task🗣:<br />
+## electric forces and electrons task🗣:<br />
 
 ## Description📄: <br />
 **Design a circuit that can be turned on and off automatically** <br />
 
 ## Circuit design :sparkles: :
-<img src="" width="550">
+<img src="Circut_design_img.png" width="550">
 
 ## Hardware Required 🔨: 
 ○ Arduino Uno <br />
@@ -47,9 +47,8 @@ void loop() {
 }
 ```
 <br />
-## The simulation :
-
-
+## The simulation : <br /> 
+- https://user-images.githubusercontent.com/106310608/182028203-28b28fd5-e4f0-421e-8d4e-61873c5afd6e.mp4
 
 
 

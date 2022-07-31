@@ -18,7 +18,7 @@
 ○ 9V Battery <br />
 
 ## The Code 👨‍💻 :
-```
+```c++
 #define LED_PIN 2
 #define BUTTON_PIN 4
 #define Relay_PIN 7
